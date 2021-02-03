@@ -1,0 +1,813 @@
+{
+  "iid": "1m745k0",
+  "result": {
+    "columns": [
+      "\u9500\u91cf 3887",
+      "\u6536\u85cf76\u4eba",
+      "\u9ed8\u8ba4\u5feb\u9012"
+    ],
+    "detailInfo": {
+      "desc": "\u4f60\u7684\u8fd0\u52a8\u5957\u88c5\uff0c\u4e5f\u53ef\u4ee5\u4e00\u8d77\u627f\u5305\u4e86~\u68c9\u6df7\u7eba\u7684\u8fde\u5e3d\u536b\u8863\uff0c\u7248\u578b\u867d\u5bbd\u677e\uff0c\u4f46\u56e0\u4e3a\u6709\u7f57\u7eb9\u6536\u53e3\uff0c\u7a7f\u8d77\u6765\u7acb\u4f53\u633a\u62ec\uff0c\u80fd\u906e\u4f4f\u591a\u4f59\u7684\u8170\u8179\u548c\u53cc\u81c2\u8089\u8089\uff0c\u5c55\u73b0\u9752\u6625\u6d3b\u529b.\u4e0b\u534a\u8eab\u642d\u914d\u6d45\u8272\u76f4\u7b52\u725b\u4ed4\u88e4\uff0c\u5411\u6765\u662f\u7af9\u7aff\u817f\u7684\u52a9\u653b\uff0c\u7ffb\u8fb9\u4e0a\u7684\u4eae\u7c89\u5b57\u6bcd\u6570\u5b57\uff0c\u548c\u4e0a\u8863\u4e00\u4e2a\u8c03\u8c03\uff0c\u95ea\u95ea\u5730\u65f6\u5c1a\u522b\u81f4.\u6e05\u6e05\u723d\u723d\u7684\u8fd0\u52a8\u98ce\u5176\u5b9e\u4e5f\u5f88\u62c9\u597d\u611fder~",
+      "detailImage": [
+        {
+          "anchor": "model_img",
+          "desc": "",
+          "key": "\u7a7f\u7740\u6548\u679c",
+          "list": [
+            "//s5.mogucdn.com/mlcdn/c45406/180811_259afdl5eb0aj4jl39h7gekgdi0lj_751x1011.jpg",
+            "//s11.mogucdn.com/mlcdn/c45406/180811_38j2dh89548c1j2cj03khja9b8hjf_751x864.jpg",
+            "//s3.mogucdn.com/mlcdn/c45406/180811_6ehkkbgfe4c2gh8913jiajefik2ck_751x618.jpg",
+            "//s11.mogucdn.com/mlcdn/c45406/180811_06akebbbccf79ddk641kkih583i46_751x472.jpg",
+            "//s11.mogucdn.com/mlcdn/c45406/180811_4i11a27bai85f99jl6icii3h7cfji_751x486.jpg",
+            "//s3.mogucdn.com/mlcdn/c45406/180811_47jbl66876b75385bb6f47ffdbe96_751x819.jpg",
+            "//s11.mogucdn.com/mlcdn/c45406/180811_100ila25d098f0gb564a33929gb42_751x810.jpg",
+            "//s11.mogucdn.com/mlcdn/c45406/180811_344ii6c555hidbg7h6ech8fji82bb_751x771.jpg",
+            "//s11.mogucdn.com/mlcdn/c45406/180811_5f04003hjf36320bg45b5di4b47f8_751x729.jpg",
+            "//s11.mogucdn.com/mlcdn/c45406/180811_4c6ke1jb94k8i3514745gi1bg36l6_751x834.jpg",
+            "//s5.mogucdn.com/mlcdn/c45406/180811_44fjcd09gd3ik7l5b317l06gjbj4e_751x764.jpg",
+            "//s11.mogucdn.com/mlcdn/c45406/180811_3g2hg11i3563jg0a0e9jjc66482hc_751x738.jpg",
+            "//s11.mogucdn.com/mlcdn/c45406/180811_0licggk7c2ba6h398ff2ei94d9ih2_751x805.jpg",
+            "//s11.mogucdn.com/mlcdn/c45406/180811_8fk12h9k46d1h29c7bddaedej136j_751x744.jpg",
+            "//s11.mogucdn.com/mlcdn/c45406/180811_0hf87ekk21hcll22kafhili0h43gf_751x719.jpg",
+            "//s11.mogucdn.com/mlcdn/c45406/180811_05hhl0fcddk11e9907g89e4idh907_751x717.jpg",
+            "//s11.mogucdn.com/mlcdn/c45406/180811_8852i90lil823eag9f0d7c5dd0kab_751x715.jpg",
+            "//s3.mogucdn.com/mlcdn/c45406/180811_0dh67di16gc3bgjhb1b347f09effl_751x728.jpg",
+            "//s3.mogucdn.com/mlcdn/c45406/180811_8h7ca8i0k7be7fa7b8dli9i2e6ekd_751x716.jpg",
+            "//s11.mogucdn.com/mlcdn/c45406/180811_5571j9khj10ee15bi2h7hi6g6c1b3_751x711.jpg",
+            "//s11.mogucdn.com/mlcdn/c45406/180811_196a09847i1769id1cifghd5d26c6_751x715.jpg",
+            "//s5.mogucdn.com/mlcdn/c45406/180811_2kjcgb9ja8b72h9del5ajj9e19448_800x800.jpg",
+            "//s11.mogucdn.com/mlcdn/c45406/180811_0f2gffa0f0fhgdg9f2agbbbf2ac5d_749x795.jpg",
+            "//s5.mogucdn.com/mlcdn/c45406/180811_0e47hiifdeal220fh9a0g6475bfe6_749x718.jpg",
+            "//s5.mogucdn.com/mlcdn/c45406/180811_19afch69gk0i29l26efi46h03kfge_749x762.jpg",
+            "//s11.mogucdn.com/mlcdn/c45406/180811_7h3ja1e2gea3f0bbeifb9kfj2d650_749x705.jpg",
+            "//s3.mogucdn.com/mlcdn/c45406/180811_265fbbkblh91h1hddl4k290l36jig_749x667.jpg",
+            "//s3.mogucdn.com/mlcdn/c45406/180811_111e6i9gj9jegkdd2l219h4ahl6e8_749x841.jpg",
+            "//s11.mogucdn.com/mlcdn/c45406/180811_24lhd561jd67ifecd38b5b441e0he_749x770.jpg",
+            "//s11.mogucdn.com/mlcdn/c45406/180811_29fd9365gkc6759j6abalh0i8d2j8_749x714.jpg",
+            "//s11.mogucdn.com/mlcdn/c45406/180811_780k003724lh4886aj1h7kkf8h01g_749x775.jpg",
+            "//s11.mogucdn.com/mlcdn/c45406/180811_3j1bgja1g97icclg42dd4glajhb35_749x729.jpg",
+            "//s11.mogucdn.com/mlcdn/c45406/180811_0lb1bih0lcg1lh8b4aej6j93k5eh2_749x717.jpg",
+            "//s11.mogucdn.com/mlcdn/c45406/180811_8bc5974f8achk69k8h9e56h9ech79_749x716.jpg",
+            "//s5.mogucdn.com/mlcdn/c45406/180811_1hif158250lg1kaaag6fe595l5c3a_749x719.jpg",
+            "//s11.mogucdn.com/mlcdn/c45406/180811_7h0lk8eli8262705h86c3169egfhb_749x717.jpg",
+            "//s11.mogucdn.com/mlcdn/c45406/180811_40857j58bjjj0b17bg19e5id48i1i_749x663.jpg",
+            "//s11.mogucdn.com/mlcdn/c45406/180811_83e95id3912fl6aa8f7f7d72a85a7_800x800.jpg",
+            "//s11.mogucdn.com/mlcdn/c45406/180811_64h2b2b1ef5g1llh9hk945a459h6h_749x669.jpg",
+            "//s5.mogucdn.com/mlcdn/c45406/180811_2i87d0048k9df28la47l30ahjjcbd_800x800.jpg",
+            "//s11.mogucdn.com/p2/170317/77101615_86e9f0elcl86499l16jf26aallg14_1125x380.jpg"
+          ]
+        }
+      ]
+    },
+    "esi": "<esi:try><esi:attempt><esi:include src='http://m.meilishuo.com/detail/mls/v1/h5_dyn?$(QUERY_STRING)'/></esi:attempt><esi:except></esi:except></esi:try>",
+    "isLogin": false,
+    "itemInfo": {
+      "addCartTips": false,
+      "admin": false,
+      "cFav": 0,
+      "cartNum": 0,
+      "cids": "#682# #683# #2525# #703#",
+      "desc": "\u4f60\u7684\u8fd0\u52a8\u5957\u88c5\uff0c\u4e5f\u53ef\u4ee5\u4e00\u8d77\u627f\u5305\u4e86~\u68c9\u6df7\u7eba\u7684\u8fde\u5e3d\u536b\u8863\uff0c\u7248\u578b\u867d\u5bbd\u677e\uff0c\u4f46\u56e0\u4e3a\u6709\u7f57\u7eb9\u6536\u53e3\uff0c\u7a7f\u8d77\u6765\u7acb\u4f53\u633a\u62ec\uff0c\u80fd\u906e\u4f4f\u591a\u4f59\u7684\u8170\u8179\u548c\u53cc\u81c2\u8089\u8089\uff0c\u5c55\u73b0\u9752\u6625\u6d3b\u529b.\u4e0b\u534a\u8eab\u642d\u914d\u6d45\u8272\u76f4\u7b52\u725b\u4ed4\u88e4\uff0c\u5411\u6765\u662f\u7af9\u7aff\u817f\u7684\u52a9\u653b\uff0c\u7ffb\u8fb9\u4e0a\u7684\u4eae\u7c89\u5b57\u6bcd\u6570\u5b57\uff0c\u548c\u4e0a\u8863\u4e00\u4e2a\u8c03\u8c03\uff0c\u95ea\u95ea\u5730\u65f6\u5c1a\u522b\u81f4.\u6e05\u6e05\u723d\u723d\u7684\u8fd0\u52a8\u98ce\u5176\u5b9e\u4e5f\u5f88\u62c9\u597d\u611fder~",
+      "discountBgColor": "#f13e3a",
+      "discountDesc": "\u4fc3\u9500\u4ef7",
+      "extra": {
+        "deliveryTime": 72,
+        "sendAddress": ""
+      },
+      "highNowPrice": "98.00",
+      "highPrice": "140.00",
+      "iid": "1m745k0",
+      "imUrl": "mls://imTalk?&source=1&goodsId=1m745k0&userId=19r4dxi&shopId=1172uw4c",
+      "inActivity": false,
+      "isFaved": false,
+      "isGrayUser": false,
+      "isNewComer": false,
+      "isSelf": false,
+      "lowNowPrice": "68.00",
+      "lowPrice": "97.15",
+      "oldPrice": "\u00a597.15",
+      "price": "\u00a568.00~\u00a598.00",
+      "redPacketsSwitch": false,
+      "saleType": 0,
+      "shopId": "1172uw4c",
+      "state": 0,
+      "tags": "",
+      "title": "2018\u79cb\u5b63\u65b0\u6b3e\u97e9\u7248\u5973\u88c5\u5b57\u6bcd\u5370\u82b1\u5bbd\u677e\u8fde\u5e3d\u4f11\u95f2\u536b\u8863\u642d\u914d\u677e\u7d27\u8170\u4e5d\u5206\u725b\u4ed4\u88e4\u4e24\u4ef6\u5957\u5973\u65f6\u5c1a\u8fd0\u52a8\u5957\u88c5\u6f6e",
+      "topImages": [
+        "//s11.mogucdn.com/mlcdn/c45406/180811_1k5hfa6d803575df3lkb6j67l5j3c_640x960.jpg",
+        "//s5.mogucdn.com/mlcdn/c45406/180811_6ei1i6l4597d78k2gbeglgd1eb53f_640x960.jpg",
+        "//s5.mogucdn.com/mlcdn/c45406/180811_18k64e8cf97f969h42did77jj0b83_640x960.jpg",
+        "//s11.mogucdn.com/mlcdn/c45406/180811_6919ke30l4jf6i886c6d2i04197ea_640x960.jpg"
+      ],
+      "userId": "19r4dxi",
+      "video": {
+        "cover": "//s5.mogucdn.com/mlcdn/c45406/180820_539j535a4h3fef998h4f60g4b7bg3_640x960.jpg",
+        "videoId": 786343
+      }
+    },
+    "itemParams": {
+      "info": {
+        "anchor": "product_info",
+        "key": "\u4ea7\u54c1\u53c2\u6570",
+        "set": [
+          {
+            "key": "\u56fe\u6848",
+            "value": "\u5b57\u6bcd/\u6587\u5b57/\u6570\u5b57"
+          },
+          {
+            "key": "\u539a\u8584",
+            "value": "\u666e\u901a"
+          },
+          {
+            "key": "\u5382\u540d",
+            "value": "\u5e7f\u5dde\u5e02\u5b8f\u9510\u670d\u9970\u6709\u9650\u516c\u53f8"
+          },
+          {
+            "key": "\u989c\u8272",
+            "value": "\u767d\u536b\u8863+\u767d\u725b\u4ed4\u88e4\u5957\u88c5,\u5355\u767d\u725b\u4ed4\u88e4,\u7ea2\u536b\u8863+\u7ea2\u725b\u4ed4\u88e4\u5957\u88c5,\u5355\u7ea2\u725b\u4ed4\u88e4,\u5355\u7ea2\u8272\u536b\u8863,\u5355\u767d\u8272\u536b\u8863"
+          },
+          {
+            "key": "\u8896\u578b",
+            "value": "\u5e38\u89c4\u8896"
+          },
+          {
+            "key": "\u5c3a\u7801",
+            "value": "S,XL,L,M"
+          },
+          {
+            "key": "\u8863\u957f",
+            "value": "\u5e38\u89c4\u6b3e\uff0851-65cm\uff09"
+          },
+          {
+            "key": "\u5b63\u8282",
+            "value": "\u79cb\u5b63"
+          },
+          {
+            "key": "\u5382\u5740",
+            "value": "\u5e7f\u4e1c\u7701\u5e7f\u5dde\u5e02\u5929\u6cb3\u533a\u666f\u4e1a\u521b\u610f\u56ed3\u53f7\u697c"
+          },
+          {
+            "key": "\u6750\u8d28",
+            "value": "\u5176\u4ed6"
+          },
+          {
+            "key": "\u9886\u578b",
+            "value": "\u9ad8\u9886"
+          },
+          {
+            "key": "\u5143\u7d20",
+            "value": "\u7cfb\u5e26"
+          },
+          {
+            "key": "\u8896\u957f",
+            "value": "\u957f\u8896"
+          },
+          {
+            "key": "\u6b3e\u5f0f",
+            "value": "\u8863\u88e4\u5957\u88c5"
+          },
+          {
+            "key": "\u98ce\u683c",
+            "value": "\u7b80\u7ea6"
+          },
+          {
+            "key": "\u6f6e\u6d41",
+            "value": "\u97e9\u7cfb"
+          }
+        ]
+      },
+      "rule": {
+        "anchor": "size_info",
+        "desc": "\u203b \u4ee5\u4e0a\u5c3a\u5bf8\u4e3a\u5b9e\u7269\u4eba\u5de5\u6d4b\u91cf\uff0c\u56e0\u6d4b\u91cf\u5f53\u65f6\u4e0d\u540c\u4f1a\u67091-2cm\u8bef\u5dee\uff0c\u76f8\u5173\u6570\u636e\u4ec5\u4f5c\u53c2\u8003\uff0c\u4ee5\u6536\u5230\u5b9e\u7269\u4e3a\u51c6.",
+        "disclaimer": "\u203b \u4ee5\u4e0a\u5c3a\u5bf8\u4e3a\u5b9e\u7269\u4eba\u5de5\u6d4b\u91cf\uff0c\u56e0\u6d4b\u91cf\u5f53\u65f6\u4e0d\u540c\u4f1a\u67091-2cm\u8bef\u5dee\uff0c\u76f8\u5173\u6570\u636e\u4ec5\u4f5c\u53c2\u8003\uff0c\u4ee5\u6536\u5230\u5b9e\u7269\u4e3a\u51c6\u3002",
+        "key": "\u5c3a\u7801\u8bf4\u660e",
+        "tables": [
+          [
+            [
+              "\u5c3a\u7801",
+              "S",
+              "M",
+              "L",
+              "XL"
+            ],
+            [
+              "\u6863\u957f",
+              "-",
+              "-",
+              "-",
+              "-"
+            ],
+            [
+              "\u5927\u817f\u56f4",
+              "-",
+              "-",
+              "-",
+              "-"
+            ],
+            [
+              "\u80f8\u56f4",
+              "114",
+              "118",
+              "122",
+              "126"
+            ],
+            [
+              "\u8170\u56f4",
+              "60-74",
+              "64-78",
+              "68-82",
+              "72-86"
+            ],
+            [
+              "\u81c0\u56f4",
+              "-",
+              "-",
+              "-",
+              "-"
+            ],
+            [
+              "\u88d9\u957f",
+              "-",
+              "-",
+              "-",
+              "-"
+            ],
+            [
+              "\u8896\u957f",
+              "46",
+              "47",
+              "48",
+              "49"
+            ],
+            [
+              "\u88e4\u957f",
+              "82",
+              "83",
+              "84",
+              "85"
+            ],
+            [
+              "\u80a9\u5bbd",
+              "58",
+              "59",
+              "60",
+              "61"
+            ],
+            [
+              "\u9886\u56f4",
+              "-",
+              "-",
+              "-",
+              "-"
+            ],
+            [
+              "\u8863\u957f",
+              "60",
+              "61",
+              "62",
+              "63"
+            ],
+            [
+              "\u88e4\u53e3",
+              "-",
+              "-",
+              "-",
+              "-"
+            ]
+          ]
+        ]
+      }
+    },
+    "promotions": {
+      "alertData": {},
+      "link": "mls://shoppro?shopId=1172uw4c",
+      "list": [
+        "\u6ee12\u4ef6\u51cf5\u5143",
+        "\u6ee13\u4ef6\u51cf10\u5143",
+        "\u6ee14\u4ef6\u51cf15\u5143",
+        "\u6ee15\u4ef6\u51cf20\u5143"
+      ]
+    },
+    "rate": {
+      "cRate": 115,
+      "list": [
+        {
+          "canExplain": false,
+          "content": "\u8d28\u91cf\u975e\u5e38\u4e0d\u9519\u3002\u6b3e\u5f0f\u65b0\u9896\uff0c\u597d\u559c\u6b22\uff0c\u7269\u6d41\u4e5f\u5f88\u5feb\u3002\u5356\u5bb6\u670d\u52a1\u975e\u5e38\u597d\uff0c\u503c\u5f97\u8d2d\u4e70",
+          "created": 1534850645,
+          "explain": "[\u5546\u5bb6\u56de\u590d]:  \u9ad8\u54c1\u8d28 \u767d\u83dc\u7684\u4ef7\u683c\u3002\u5de5\u5382\u76f4\u9500 \u597d\u8d28\u91cf\u8bf7\u8ba4\u51c6\u3010\u5029\u96ea\u9999\u5b9c\u3011 \u53ea\u505a\u597d\u8d28\u91cf\uff0c\u505a\u6027\u4ef7\u6bd4\u9ad8\u7684\u4ea7\u54c1\uff0c\u4e48\u4e48\u54d2\n\n\u3002\u975e\u5e38\u611f\u8c22\u60a8\u5bf9\u3010\u5029\u96ea\u9999\u5b9c\u3011\u7684\u652f\u6301\u548c\u8ba4\u53ef\u3002\u4f60\u4eec\u7684\u80af\u5b9a\u5c31\u662f\u5bf9\u6211\u4eec\u6700\u5927\u7684\u652f\u6301\u548c\u9f13\u52b1\u3002\u6211\u4eec\u4e00\u76f4\u81f4\n\n\u529b\u4e8e\u63d0\u4f9b\u66f4\u591a\u4f18\u8d28\u6027\u4ef7\u6bd4\u9ad8\u7684\u5b9d\u8d1d\u5448\u73b0\u7ed9\u83c7\u51c9\u4eec\uff0c\u611f\u8c22\u5927\u5bb6\u7684\u652f\u6301.\u6b22\u8fce\u4e0b\u6b21\u518d\u6765\uff0c\u6211\u4eec\u4f1a\u7ed9\u4eb2\u66f4\u4f18\u60e0\n\n\u7684\u4ef7\u683c\u54e6~;\u795d\u60a8\u6bcf\u5929\u90fd\u6709\u9633\u5149\u822c\u7684\u597d\u5fc3\u60c5\u9ad8\u54c1\u8d28 \u767d\u83dc\u7684\u4ef7\u683c\u3002\u5de5\u5382\u76f4\u9500 \u597d\u8d28\u91cf\u8bf7\u8ba4\u51c6\u3010\u5029\u96ea\u9999\u5b9c\u3011 \n\n\u53ea\u505a\u597d\u8d28\u91cf\uff0c\u505a\u6027\u4ef7\u6bd4\u9ad8\u7684\u4ea7\u54c1\uff0c\u4e48\u4e48\u54d2\u3002\u975e\u5e38\u611f\u8c22\u60a8\u5bf9\u3010\u5029\u96ea\u9999\u5b9c\u3011\u7684\u652f\u6301\u548c\u8ba4\u53ef\u3002\u4f60\u4eec\u7684\u80af\u5b9a\u5c31\n\n\u662f\u5bf9\u6211\u4eec\u6700\u5927\u7684\u652f\u6301\u548c\u9f13\u52b1\u3002\u6211\u4eec\u4e00\u76f4\u81f4\u529b\u4e8e\u63d0\u4f9b\u66f4\u591a\u4f18\u8d28\u6027\u4ef7\u6bd4\u9ad8\u7684\u5b9d\u8d1d\u5448\u73b0\u7ed9\u83c7\u51c9\u4eec\uff0c\u611f\u8c22\u5927\u5bb6\n\n\u7684\u652f\u6301.\u6b22\u8fce\u4e0b\u6b21\u518d\u6765\uff0c\u6211\u4eec\u4f1a\u7ed9\u4eb2\u66f4\u4f18\u60e0\u7684\u4ef7\u683c\u54e6~;\u795d\u60a8\u6bcf\u5929\u90fd\u6709\u9633\u5149\u822c\u7684\u597d\u5fc3\u60c5",
+          "extraInfo": [
+            "\u662f\u5426\u5408\u8eab:\u5408\u8eab"
+          ],
+          "isAnonymous": 1,
+          "isEmpty": 0,
+          "level": "",
+          "rateId": "115y6h8m",
+          "style": "\u989c\u8272:\u767d\u8272 \u5c3a\u7801:XL ",
+          "user": {
+            "avatar": "//s11.mogucdn.com/p2/161214/103488673_0l1ff9kf2hbc32fe4a2g05l77d89d_140x140.png",
+            "profileUrl": "",
+            "tagIndex": "",
+            "uid": "",
+            "uname": "\u897f\u74dc\u5973\u7687i2009"
+          }
+        }
+      ]
+    },
+    "shopInfo": {
+      "allGoodsUrl": "http://m.meilishuo.com/shop/index/1172uw4c",
+      "cFans": 12224,
+      "cGoods": 300,
+      "cSells": 63236,
+      "categories": [
+        {
+          "link": "http://s.meilishuo.com/1172uw4c/list/index?categoryId=20293875",
+          "name": "\u6625\u79cb\u5916\u5957"
+        },
+        {
+          "link": "http://s.meilishuo.com/1172uw4c/list/index?categoryId=20293876",
+          "name": "\u65f6\u5c1a\u5957\u88c5"
+        },
+        {
+          "link": "http://s.meilishuo.com/1172uw4c/list/index?categoryId=20337021",
+          "name": "\u6bdb\u5462\u5916\u5957"
+        },
+        {
+          "link": "http://s.meilishuo.com/1172uw4c/list/index?categoryId=20337022",
+          "name": "\u68c9\u8863/\u68c9\u670d"
+        },
+        {
+          "link": "http://s.meilishuo.com/1172uw4c/list/index?categoryId=20338182",
+          "name": "\u8fde\u8863\u88d9"
+        },
+        {
+          "link": "http://s.meilishuo.com/1172uw4c/list/index?categoryId=20339100",
+          "name": "\u536b\u8863"
+        },
+        {
+          "link": "http://s.meilishuo.com/1172uw4c/list/index?categoryId=20339102",
+          "name": "\u6bdb\u8863"
+        }
+      ],
+      "isMarked": false,
+      "level": 3,
+      "name": "\u5029\u96ea\u9999\u5b9c\u5b9a\u5236\u5973\u88c5",
+      "nonsupportReasonRefound": false,
+      "score": [
+        {
+          "isBetter": false,
+          "name": "\u63cf\u8ff0\u76f8\u7b26",
+          "score": 4.58
+        },
+        {
+          "isBetter": true,
+          "name": "\u4ef7\u683c\u5408\u7406",
+          "score": 5.0
+        },
+        {
+          "isBetter": false,
+          "name": "\u8d28\u91cf\u6ee1\u610f",
+          "score": 4.58
+        }
+      ],
+      "services": [
+        {
+          "icon": "//s11.mogucdn.com/p1/160607/upload_ie4tkmbtgqztomjqhezdambqgqyde_44x44.png",
+          "name": "\u9000\u8d27\u8865\u8fd0\u8d39"
+        },
+        {
+          "icon": "//s11.mogucdn.com/p1/160607/upload_ie4tkmbtgqztomjqhezdambqgqyde_44x44.png",
+          "name": "\u5168\u56fd\u5305\u90ae"
+        },
+        {
+          "icon": "//s11.mogucdn.com/p1/160607/upload_ie4tkmbtgqztomjqhezdambqgqyde_44x44.png",
+          "name": "7\u5929\u65e0\u7406\u7531\u9000\u8d27"
+        },
+        {
+          "icon": "//s11.mogucdn.com/p1/160607/upload_ie4tkmbtgqztomjqhezdambqgqyde_44x44.png",
+          "name": "72\u5c0f\u65f6\u53d1\u8d27"
+        }
+      ],
+      "shopId": "1172uw4c",
+      "shopLogo": "//s11.mogucdn.com/mlcdn/c45406/171215_05e78a8bba7dli9329gai9kk5b6bj_200x200.jpg",
+      "shopUrl": "http://m.meilishuo.com/shop/index/1172uw4c",
+      "type": 1,
+      "userId": "19r4dxi"
+    },
+    "skuInfo": {
+      "defaultPrice": "\u00a568.00~\u00a598.00",
+      "isAbroad": false,
+      "priceRange": "\u00a568.00~\u00a598.00",
+      "props": [
+        {
+          "isDefault": false,
+          "label": "\u989c\u8272:",
+          "list": [
+            {
+              "index": 1,
+              "isDefault": false,
+              "name": "\u5355\u767d\u8272\u536b\u8863",
+              "styleId": 1,
+              "type": "style"
+            },
+            {
+              "index": 2,
+              "isDefault": false,
+              "name": "\u5355\u7ea2\u8272\u536b\u8863",
+              "styleId": 2,
+              "type": "style"
+            },
+            {
+              "index": 3,
+              "isDefault": false,
+              "name": "\u5355\u767d\u725b\u4ed4\u88e4",
+              "styleId": 3,
+              "type": "style"
+            },
+            {
+              "index": 4,
+              "isDefault": false,
+              "name": "\u5355\u7ea2\u725b\u4ed4\u88e4",
+              "styleId": 4,
+              "type": "style"
+            },
+            {
+              "index": 5,
+              "isDefault": false,
+              "name": "\u767d\u536b\u8863+\u767d\u725b\u4ed4\u88e4\u5957\u88c5",
+              "styleId": 5,
+              "type": "style"
+            },
+            {
+              "index": 6,
+              "isDefault": false,
+              "name": "\u7ea2\u536b\u8863+\u7ea2\u725b\u4ed4\u88e4\u5957\u88c5",
+              "styleId": 6,
+              "type": "style"
+            }
+          ]
+        },
+        {
+          "isDefault": false,
+          "label": "\u5c3a\u7801:",
+          "list": [
+            {
+              "index": 100,
+              "isDefault": false,
+              "name": "S",
+              "sizeId": 100,
+              "type": "size"
+            },
+            {
+              "index": 101,
+              "isDefault": false,
+              "name": "M",
+              "sizeId": 101,
+              "type": "size"
+            },
+            {
+              "index": 102,
+              "isDefault": false,
+              "name": "L",
+              "sizeId": 102,
+              "type": "size"
+            },
+            {
+              "index": 103,
+              "isDefault": false,
+              "name": "XL",
+              "sizeId": 103,
+              "type": "size"
+            }
+          ]
+        }
+      ],
+      "sizeKey": "\u5c3a\u7801",
+      "skus": [
+        {
+          "currency": "\uffe5",
+          "img": "//s11.mogucdn.com/mlcdn/c45406/180822_3j9j174g9laj1h7a1ii4786jgghb1_640x960.jpg",
+          "nowprice": 6800,
+          "price": 9715,
+          "size": "S",
+          "sizeId": 100,
+          "stock": 449,
+          "stockId": "116kkstw",
+          "style": "\u5355\u767d\u8272\u536b\u8863",
+          "styleId": 1,
+          "xdSkuId": "116kkstw"
+        },
+        {
+          "currency": "\uffe5",
+          "img": "//s11.mogucdn.com/mlcdn/c45406/180822_3j9j174g9laj1h7a1ii4786jgghb1_640x960.jpg",
+          "nowprice": 6800,
+          "price": 9715,
+          "size": "M",
+          "sizeId": 101,
+          "stock": 445,
+          "stockId": "116kksty",
+          "style": "\u5355\u767d\u8272\u536b\u8863",
+          "styleId": 1,
+          "xdSkuId": "116kksty"
+        },
+        {
+          "currency": "\uffe5",
+          "img": "//s11.mogucdn.com/mlcdn/c45406/180822_3j9j174g9laj1h7a1ii4786jgghb1_640x960.jpg",
+          "nowprice": 6800,
+          "price": 9715,
+          "size": "L",
+          "sizeId": 102,
+          "stock": 443,
+          "stockId": "116kksu0",
+          "style": "\u5355\u767d\u8272\u536b\u8863",
+          "styleId": 1,
+          "xdSkuId": "116kksu0"
+        },
+        {
+          "currency": "\uffe5",
+          "img": "//s11.mogucdn.com/mlcdn/c45406/180822_3j9j174g9laj1h7a1ii4786jgghb1_640x960.jpg",
+          "nowprice": 6800,
+          "price": 9715,
+          "size": "XL",
+          "sizeId": 103,
+          "stock": 490,
+          "stockId": "116kksu2",
+          "style": "\u5355\u767d\u8272\u536b\u8863",
+          "styleId": 1,
+          "xdSkuId": "116kksu2"
+        },
+        {
+          "currency": "\uffe5",
+          "img": "//s5.mogucdn.com/mlcdn/c45406/180822_6fj224cck2aj4j7e52ebfj09hd01l_640x960.jpg",
+          "nowprice": 6800,
+          "price": 9715,
+          "size": "S",
+          "sizeId": 100,
+          "stock": 496,
+          "stockId": "116kksu4",
+          "style": "\u5355\u7ea2\u8272\u536b\u8863",
+          "styleId": 2,
+          "xdSkuId": "116kksu4"
+        },
+        {
+          "currency": "\uffe5",
+          "img": "//s5.mogucdn.com/mlcdn/c45406/180822_6fj224cck2aj4j7e52ebfj09hd01l_640x960.jpg",
+          "nowprice": 6800,
+          "price": 9715,
+          "size": "M",
+          "sizeId": 101,
+          "stock": 495,
+          "stockId": "116kksu6",
+          "style": "\u5355\u7ea2\u8272\u536b\u8863",
+          "styleId": 2,
+          "xdSkuId": "116kksu6"
+        },
+        {
+          "currency": "\uffe5",
+          "img": "//s5.mogucdn.com/mlcdn/c45406/180822_6fj224cck2aj4j7e52ebfj09hd01l_640x960.jpg",
+          "nowprice": 6800,
+          "price": 9715,
+          "size": "L",
+          "sizeId": 102,
+          "stock": 495,
+          "stockId": "116kksu8",
+          "style": "\u5355\u7ea2\u8272\u536b\u8863",
+          "styleId": 2,
+          "xdSkuId": "116kksu8"
+        },
+        {
+          "currency": "\uffe5",
+          "img": "//s5.mogucdn.com/mlcdn/c45406/180822_6fj224cck2aj4j7e52ebfj09hd01l_640x960.jpg",
+          "nowprice": 6800,
+          "price": 9715,
+          "size": "XL",
+          "sizeId": 103,
+          "stock": 494,
+          "stockId": "116kksua",
+          "style": "\u5355\u7ea2\u8272\u536b\u8863",
+          "styleId": 2,
+          "xdSkuId": "116kksua"
+        },
+        {
+          "currency": "\uffe5",
+          "img": "//s5.mogucdn.com/mlcdn/c45406/180822_07e5a9308a741ccg48e181jbdji2g_640x960.jpg",
+          "nowprice": 6800,
+          "price": 9715,
+          "size": "S",
+          "sizeId": 100,
+          "stock": 497,
+          "stockId": "116kksuc",
+          "style": "\u5355\u767d\u725b\u4ed4\u88e4",
+          "styleId": 3,
+          "xdSkuId": "116kksuc"
+        },
+        {
+          "currency": "\uffe5",
+          "img": "//s5.mogucdn.com/mlcdn/c45406/180822_07e5a9308a741ccg48e181jbdji2g_640x960.jpg",
+          "nowprice": 6800,
+          "price": 9715,
+          "size": "M",
+          "sizeId": 101,
+          "stock": 496,
+          "stockId": "116kksue",
+          "style": "\u5355\u767d\u725b\u4ed4\u88e4",
+          "styleId": 3,
+          "xdSkuId": "116kksue"
+        },
+        {
+          "currency": "\uffe5",
+          "img": "//s5.mogucdn.com/mlcdn/c45406/180822_07e5a9308a741ccg48e181jbdji2g_640x960.jpg",
+          "nowprice": 6800,
+          "price": 9715,
+          "size": "L",
+          "sizeId": 102,
+          "stock": 498,
+          "stockId": "116kksug",
+          "style": "\u5355\u767d\u725b\u4ed4\u88e4",
+          "styleId": 3,
+          "xdSkuId": "116kksug"
+        },
+        {
+          "currency": "\uffe5",
+          "img": "//s5.mogucdn.com/mlcdn/c45406/180822_07e5a9308a741ccg48e181jbdji2g_640x960.jpg",
+          "nowprice": 6800,
+          "price": 9715,
+          "size": "XL",
+          "sizeId": 103,
+          "stock": 496,
+          "stockId": "116kksui",
+          "style": "\u5355\u767d\u725b\u4ed4\u88e4",
+          "styleId": 3,
+          "xdSkuId": "116kksui"
+        },
+        {
+          "currency": "\uffe5",
+          "img": "//s11.mogucdn.com/mlcdn/c45406/180822_22e843hdd0l88f7e6bk3jhk3bb422_640x960.jpg",
+          "nowprice": 6800,
+          "price": 9715,
+          "size": "S",
+          "sizeId": 100,
+          "stock": 498,
+          "stockId": "116kksuk",
+          "style": "\u5355\u7ea2\u725b\u4ed4\u88e4",
+          "styleId": 4,
+          "xdSkuId": "116kksuk"
+        },
+        {
+          "currency": "\uffe5",
+          "img": "//s11.mogucdn.com/mlcdn/c45406/180822_22e843hdd0l88f7e6bk3jhk3bb422_640x960.jpg",
+          "nowprice": 6800,
+          "price": 9715,
+          "size": "M",
+          "sizeId": 101,
+          "stock": 498,
+          "stockId": "116kksum",
+          "style": "\u5355\u7ea2\u725b\u4ed4\u88e4",
+          "styleId": 4,
+          "xdSkuId": "116kksum"
+        },
+        {
+          "currency": "\uffe5",
+          "img": "//s11.mogucdn.com/mlcdn/c45406/180822_22e843hdd0l88f7e6bk3jhk3bb422_640x960.jpg",
+          "nowprice": 6800,
+          "price": 9715,
+          "size": "L",
+          "sizeId": 102,
+          "stock": 498,
+          "stockId": "116kksuo",
+          "style": "\u5355\u7ea2\u725b\u4ed4\u88e4",
+          "styleId": 4,
+          "xdSkuId": "116kksuo"
+        },
+        {
+          "currency": "\uffe5",
+          "img": "//s11.mogucdn.com/mlcdn/c45406/180822_22e843hdd0l88f7e6bk3jhk3bb422_640x960.jpg",
+          "nowprice": 6800,
+          "price": 9715,
+          "size": "XL",
+          "sizeId": 103,
+          "stock": 496,
+          "stockId": "116kksuq",
+          "style": "\u5355\u7ea2\u725b\u4ed4\u88e4",
+          "styleId": 4,
+          "xdSkuId": "116kksuq"
+        },
+        {
+          "currency": "\uffe5",
+          "img": "//s5.mogucdn.com/mlcdn/c45406/180822_317177jj9bbhkcl20ic1gei6g9bef_640x960.jpg",
+          "nowprice": 9800,
+          "price": 14000,
+          "size": "S",
+          "sizeId": 100,
+          "stock": 395,
+          "stockId": "116kksus",
+          "style": "\u767d\u536b\u8863+\u767d\u725b\u4ed4\u88e4\u5957\u88c5",
+          "styleId": 5,
+          "xdSkuId": "116kksus"
+        },
+        {
+          "currency": "\uffe5",
+          "img": "//s5.mogucdn.com/mlcdn/c45406/180822_317177jj9bbhkcl20ic1gei6g9bef_640x960.jpg",
+          "nowprice": 9800,
+          "price": 14000,
+          "size": "M",
+          "sizeId": 101,
+          "stock": 340,
+          "stockId": "116kksuu",
+          "style": "\u767d\u536b\u8863+\u767d\u725b\u4ed4\u88e4\u5957\u88c5",
+          "styleId": 5,
+          "xdSkuId": "116kksuu"
+        },
+        {
+          "currency": "\uffe5",
+          "img": "//s5.mogucdn.com/mlcdn/c45406/180822_317177jj9bbhkcl20ic1gei6g9bef_640x960.jpg",
+          "nowprice": 9800,
+          "price": 14000,
+          "size": "L",
+          "sizeId": 102,
+          "stock": 382,
+          "stockId": "116kksuw",
+          "style": "\u767d\u536b\u8863+\u767d\u725b\u4ed4\u88e4\u5957\u88c5",
+          "styleId": 5,
+          "xdSkuId": "116kksuw"
+        },
+        {
+          "currency": "\uffe5",
+          "img": "//s5.mogucdn.com/mlcdn/c45406/180822_317177jj9bbhkcl20ic1gei6g9bef_640x960.jpg",
+          "nowprice": 9800,
+          "price": 14000,
+          "size": "XL",
+          "sizeId": 103,
+          "stock": 379,
+          "stockId": "116kksuy",
+          "style": "\u767d\u536b\u8863+\u767d\u725b\u4ed4\u88e4\u5957\u88c5",
+          "styleId": 5,
+          "xdSkuId": "116kksuy"
+        },
+        {
+          "currency": "\uffe5",
+          "img": "//s11.mogucdn.com/mlcdn/c45406/180822_4bebgk39he9b0cgdkg51k99a7f21h_640x960.jpg",
+          "nowprice": 9800,
+          "price": 14000,
+          "size": "S",
+          "sizeId": 100,
+          "stock": 473,
+          "stockId": "116kksv0",
+          "style": "\u7ea2\u536b\u8863+\u7ea2\u725b\u4ed4\u88e4\u5957\u88c5",
+          "styleId": 6,
+          "xdSkuId": "116kksv0"
+        },
+        {
+          "currency": "\uffe5",
+          "img": "//s11.mogucdn.com/mlcdn/c45406/180822_4bebgk39he9b0cgdkg51k99a7f21h_640x960.jpg",
+          "nowprice": 9800,
+          "price": 14000,
+          "size": "M",
+          "sizeId": 101,
+          "stock": 459,
+          "stockId": "116kksv2",
+          "style": "\u7ea2\u536b\u8863+\u7ea2\u725b\u4ed4\u88e4\u5957\u88c5",
+          "styleId": 6,
+          "xdSkuId": "116kksv2"
+        },
+        {
+          "currency": "\uffe5",
+          "img": "//s11.mogucdn.com/mlcdn/c45406/180822_4bebgk39he9b0cgdkg51k99a7f21h_640x960.jpg",
+          "nowprice": 9800,
+          "price": 14000,
+          "size": "L",
+          "sizeId": 102,
+          "stock": 462,
+          "stockId": "116kksv4",
+          "style": "\u7ea2\u536b\u8863+\u7ea2\u725b\u4ed4\u88e4\u5957\u88c5",
+          "styleId": 6,
+          "xdSkuId": "116kksv4"
+        },
+        {
+          "currency": "\uffe5",
+          "img": "//s11.mogucdn.com/mlcdn/c45406/180822_4bebgk39he9b0cgdkg51k99a7f21h_640x960.jpg",
+          "nowprice": 9800,
+          "price": 14000,
+          "size": "XL",
+          "sizeId": 103,
+          "stock": 443,
+          "stockId": "116kksv6",
+          "style": "\u7ea2\u536b\u8863+\u7ea2\u725b\u4ed4\u88e4\u5957\u88c5",
+          "styleId": 6,
+          "xdSkuId": "116kksv6"
+        }
+      ],
+      "styleKey": "\u989c\u8272",
+      "title": "2018\u79cb\u5b63\u65b0\u6b3e\u97e9\u7248\u5973\u88c5\u5b57\u6bcd\u5370\u82b1\u5bbd\u677e\u8fde\u5e3d\u4f11\u95f2\u536b\u8863\u642d\u914d\u677e\u7d27\u8170\u4e5d\u5206\u725b\u4ed4\u88e4\u4e24\u4ef6\u5957\u5973\u65f6\u5c1a\u8fd0\u52a8\u5957\u88c5\u6f6e",
+      "totalStock": 11117
+    },
+    "topBar": {
+      "img": "//s11.mogucdn.com/p1/150811/upload_ieytsmbrmm4wkm3ggizdambqmeyde_226x43.png",
+      "link": "http://www.xiaodian.com/h5/download"
+    }
+  },
+  "status": {
+    "code": 1001,
+    "msg": ""
+  }
+}

@@ -1,0 +1,620 @@
+{
+  "iid": "1m70y5k",
+  "result": {
+    "columns": [
+      "\u9500\u91cf 5013",
+      "\u6536\u85cf49\u4eba",
+      "\u9ed8\u8ba4\u5feb\u9012"
+    ],
+    "detailInfo": {
+      "desc": "2018\u79cb\u5b63\u65b0\u6b3e\u97e9\u7248\u767e\u642d\u683c\u5b50\u957f\u8896\u886c\u886b+\u524d\u77ed\u540e\u957f\u9488\u7ec7\u6c14\u8d28\u5f00\u886b\u5916\u5957+\u9ad8\u8170\u76f4\u7b52\u4e5d\u5206\u725b\u4ed4\u88e4\u4e09\u4ef6\u5957\u88c5",
+      "detailImage": [
+        {
+          "anchor": "model_img",
+          "desc": "",
+          "key": "\u7a7f\u7740\u6548\u679c",
+          "list": [
+            "//s3.mogucdn.com/mlcdn/c45406/180808_0ef92c2hkg8e57lkj8098ek8ikj32_750x1024.jpg",
+            "//s11.mogucdn.com/mlcdn/c45406/180808_0eh1f9gfgkalgjg488b7efda457bh_750x1024.jpg",
+            "//s5.mogucdn.com/mlcdn/c45406/180808_3li3e7j0b329i3279ce06h4af322f_750x1024.jpg",
+            "//s11.mogucdn.com/mlcdn/c45406/180808_6c7j0be2b52bd99559fiag0aj1i9c_750x1000.jpg",
+            "//s3.mogucdn.com/mlcdn/c45406/180808_347b2ab91e3i2if5klkdd3b632k3j_750x1000.jpg",
+            "//s5.mogucdn.com/mlcdn/c45406/180808_3f215a69j42ajhjjeiabid2fjd6g3_750x1024.jpg",
+            "//s11.mogucdn.com/mlcdn/c45406/180808_00kei2ib30lk8d0i083j7ad50f2ak_750x1000.jpg",
+            "//s5.mogucdn.com/mlcdn/c45406/180808_856jdjkabikfdfdh6f90i2bd7hfd0_750x1024.jpg",
+            "//s5.mogucdn.com/mlcdn/c45406/180808_2lefjd8fe46dj06451i8dk585e06e_640x960.jpg",
+            "//s3.mogucdn.com/mlcdn/c45406/180808_2fji3fbf5j7eg4hhjbhc9j4kgj48e_640x960.jpg",
+            "//s11.mogucdn.com/p2/170317/77101615_86e9f0elcl86499l16jf26aallg14_1125x380.jpg"
+          ]
+        }
+      ]
+    },
+    "esi": "<esi:try><esi:attempt><esi:include src='http://m.meilishuo.com/detail/mls/v1/h5_dyn?$(QUERY_STRING)'/></esi:attempt><esi:except></esi:except></esi:try>",
+    "isLogin": false,
+    "itemInfo": {
+      "addCartTips": false,
+      "admin": false,
+      "cFav": 0,
+      "cartNum": 0,
+      "cids": "#682# #683# #2525# #703#",
+      "desc": "2018\u79cb\u5b63\u65b0\u6b3e\u97e9\u7248\u767e\u642d\u683c\u5b50\u957f\u8896\u886c\u886b+\u524d\u77ed\u540e\u957f\u9488\u7ec7\u6c14\u8d28\u5f00\u886b\u5916\u5957+\u9ad8\u8170\u76f4\u7b52\u4e5d\u5206\u725b\u4ed4\u88e4\u4e09\u4ef6\u5957\u88c5",
+      "discountBgColor": "#f13e3a",
+      "discountDesc": "7\u6298",
+      "extra": {
+        "deliveryTime": 72,
+        "sendAddress": "\u5e7f\u4e1c\u7701\u5e7f\u5dde\u5e02"
+      },
+      "highNowPrice": "178.00",
+      "highPrice": "254.29",
+      "iid": "1m70y5k",
+      "imUrl": "mls://imTalk?&source=1&goodsId=1m70y5k&userId=1335w1m&shopId=1cp5kk",
+      "inActivity": false,
+      "isFaved": false,
+      "isGrayUser": false,
+      "isNewComer": false,
+      "isSelf": false,
+      "lowNowPrice": "59.00",
+      "lowPrice": "84.29",
+      "oldPrice": "\u00a584.29",
+      "price": "\u00a559.00~\u00a5178.00",
+      "redPacketsSwitch": false,
+      "saleType": 0,
+      "shopId": "1cp5kk",
+      "state": 0,
+      "tags": "",
+      "title": "2018\u79cb\u5b63\u65b0\u6b3e\u97e9\u7248\u767e\u642d\u683c\u5b50\u957f\u8896\u886c\u886b+\u524d\u77ed\u540e\u957f\u9488\u7ec7\u6c14\u8d28\u5f00\u886b\u5916\u5957+\u9ad8\u8170\u76f4\u7b52\u4e5d\u5206\u725b\u4ed4\u88e4\u4e09\u4ef6\u5957\u88c5",
+      "topImages": [
+        "//s11.mogucdn.com/mlcdn/c45406/180808_600abce0g8dc8i4f6ic7k27i7837l_640x960.jpg",
+        "//s11.mogucdn.com/mlcdn/c45406/180808_41gdji7a4d3cigcf71li711kg3d5c_750x1000.jpg",
+        "//s11.mogucdn.com/mlcdn/c45406/180808_6jc08lbjjg61gecif7c04292b57ah_750x1000.jpg",
+        "//s3.mogucdn.com/mlcdn/c45406/180808_7i520f07dcc5j5lf0068l3l505d27_750x1024.jpg",
+        "//s11.mogucdn.com/mlcdn/c45406/180808_7abl65i38i34lgk746061b4bg183b_640x960.jpg"
+      ],
+      "userId": "1335w1m"
+    },
+    "itemParams": {
+      "info": {
+        "anchor": "product_info",
+        "key": "\u4ea7\u54c1\u53c2\u6570",
+        "set": [
+          {
+            "key": "\u539a\u8584",
+            "value": "\u666e\u901a"
+          },
+          {
+            "key": "\u5382\u540d",
+            "value": "\u5e7f\u5dde\u98ce\u5f69\u8d38\u6613\u6709\u9650\u516c\u53f8"
+          },
+          {
+            "key": "\u989c\u8272",
+            "value": "\u4e09\u4ef6\u5957,\u886c\u8863+\u5f00\u886b,\u886c\u8863,\u5f00\u886b,\u88e4\u5b50"
+          },
+          {
+            "key": "\u5b63\u8282",
+            "value": "\u79cb\u5b63"
+          },
+          {
+            "key": "\u5382\u5740",
+            "value": "\u5e7f\u5dde\u5e02\u5929\u6cb3\u533a\u6c99\u592a\u5357\u8def\u94f6\u5229\u8336\u53f6\u57ceE\u680b1042"
+          },
+          {
+            "key": "\u6750\u8d28",
+            "value": "\u5176\u4ed6"
+          },
+          {
+            "key": "\u9886\u578b",
+            "value": "\u5176\u4ed6\u9886\u578b"
+          },
+          {
+            "key": "\u8896\u957f",
+            "value": "\u957f\u8896"
+          },
+          {
+            "key": "\u6b3e\u5f0f",
+            "value": "\u8863\u88e4\u5957\u88c5"
+          },
+          {
+            "key": "\u98ce\u683c",
+            "value": "\u7b80\u7ea6"
+          },
+          {
+            "key": "\u5c3a\u7801",
+            "value": "S,L,M"
+          },
+          {
+            "key": "\u8863\u957f",
+            "value": "\u5e38\u89c4\u6b3e\uff0851-65cm\uff09"
+          }
+        ]
+      },
+      "rule": {
+        "anchor": "size_info",
+        "disclaimer": "\u203b \u4ee5\u4e0a\u5c3a\u5bf8\u4e3a\u5b9e\u7269\u4eba\u5de5\u6d4b\u91cf\uff0c\u56e0\u6d4b\u91cf\u5f53\u65f6\u4e0d\u540c\u4f1a\u67091-2cm\u8bef\u5dee\uff0c\u76f8\u5173\u6570\u636e\u4ec5\u4f5c\u53c2\u8003\uff0c\u4ee5\u6536\u5230\u5b9e\u7269\u4e3a\u51c6\u3002",
+        "key": "\u5c3a\u7801\u8bf4\u660e",
+        "tables": [
+          [
+            [
+              "\u5c3a\u7801",
+              "S",
+              "M",
+              "L"
+            ],
+            [
+              "\u80f8\u56f4",
+              "100",
+              "104",
+              "108"
+            ],
+            [
+              "\u8170\u56f4",
+              "64",
+              "68",
+              "72"
+            ],
+            [
+              "\u88e4\u957f",
+              "87",
+              "88",
+              "89"
+            ],
+            [
+              "\u80a9\u5bbd",
+              "39",
+              "40",
+              "41"
+            ],
+            [
+              "\u8863\u957f",
+              "55",
+              "56",
+              "57"
+            ]
+          ]
+        ]
+      }
+    },
+    "promotions": {
+      "alertData": {},
+      "link": "mls://shoppro?shopId=1cp5kk",
+      "list": [
+        "\u6ee12\u4ef6\u51cf3\u5143",
+        "\u6ee13\u4ef6\u51cf5\u5143",
+        "\u6ee14\u4ef6\u51cf8\u5143",
+        "\u6ee15\u4ef6\u51cf10\u5143"
+      ]
+    },
+    "rate": {
+      "cRate": 99,
+      "list": [
+        {
+          "canExplain": false,
+          "content": "\u8863\u670d\u6536\u5230\u4e86\uff0c\u8d28\u91cf\u5f88\u597d\u6ca1\u6709\u8272\u5dee\u505a\u5de5\u7cbe\u7ec6\uff0c\u6b3e\u5f0f\u65f6\u5c1a\u5927\u65b9\u7a7f\u5728\u8eab\u4e0a\u5927\u5c0f\u5408\u9002\u4ef7\u683c\u5b9e\u60e0",
+          "created": 1535697272,
+          "isAnonymous": 1,
+          "isEmpty": 0,
+          "level": "",
+          "rateId": "11625csq",
+          "style": "\u989c\u8272:\u886c\u8863 \u5c3a\u7801:M ",
+          "user": {
+            "avatar": "//s3.mogucdn.com/p2/161214/103488673_65bf62g5e98f4g9b8dk1j5le13e34_140x140.png",
+            "profileUrl": "",
+            "tagIndex": "",
+            "uid": "",
+            "uname": "\u9759\u8431Gill"
+          }
+        }
+      ]
+    },
+    "shopInfo": {
+      "allGoodsUrl": "http://m.meilishuo.com/shop/index/1cp5kk",
+      "cFans": 98573,
+      "cGoods": 339,
+      "cSells": 384791,
+      "categories": [
+        {
+          "link": "http://s.meilishuo.com/1cp5kk/list/index?categoryId=85062",
+          "name": "T\u6064/\u886c\u886b"
+        },
+        {
+          "link": "http://s.meilishuo.com/1cp5kk/list/index?categoryId=85065",
+          "name": "\u534a\u8eab\u88d9/\u77ed\u88d9"
+        },
+        {
+          "link": "http://s.meilishuo.com/1cp5kk/list/index?categoryId=85066",
+          "name": "\u4f11\u95f2\u88e4/\u6253\u5e95\u88e4"
+        },
+        {
+          "link": "http://s.meilishuo.com/1cp5kk/list/index?categoryId=87811",
+          "name": "\u96ea\u7eba\u886b/\u857e\u4e1d\u886b"
+        },
+        {
+          "link": "http://s.meilishuo.com/1cp5kk/list/index?categoryId=87820",
+          "name": "\u8fde\u8863\u88d9"
+        },
+        {
+          "link": "http://s.meilishuo.com/1cp5kk/list/index?categoryId=87878",
+          "name": "\u5957\u88c5"
+        },
+        {
+          "link": "http://s.meilishuo.com/1cp5kk/list/index?categoryId=91034",
+          "name": "\u540a\u5e26/\u80cc\u5fc3"
+        },
+        {
+          "link": "http://s.meilishuo.com/1cp5kk/list/index?categoryId=114122",
+          "name": "\u725b\u4ed4\u88e4"
+        },
+        {
+          "link": "http://s.meilishuo.com/1cp5kk/list/index?categoryId=114123",
+          "name": "\u77ed\u88e4"
+        },
+        {
+          "link": "http://s.meilishuo.com/1cp5kk/list/index?categoryId=134459",
+          "name": "\u5916\u5957/\u98ce\u8863"
+        },
+        {
+          "link": "http://s.meilishuo.com/1cp5kk/list/index?categoryId=134465",
+          "name": "\u9632\u55ee\u886b"
+        },
+        {
+          "link": "http://s.meilishuo.com/1cp5kk/list/index?categoryId=152761",
+          "name": "\u9488\u7ec7\u886b/\u6bdb\u8863"
+        },
+        {
+          "link": "http://s.meilishuo.com/1cp5kk/list/index?categoryId=165931",
+          "name": "\u536b\u8863"
+        },
+        {
+          "link": "http://s.meilishuo.com/1cp5kk/list/index?categoryId=174689",
+          "name": "\u68d2\u7403\u886b"
+        },
+        {
+          "link": "http://s.meilishuo.com/1cp5kk/list/index?categoryId=1295038",
+          "name": "\u68c9\u8863/\u68c9\u670d"
+        },
+        {
+          "link": "http://s.meilishuo.com/1cp5kk/list/index?categoryId=1324066",
+          "name": "\u6ee1119\u4efb\u90092\u4ef6"
+        },
+        {
+          "link": "http://s.meilishuo.com/1cp5kk/list/index?categoryId=1367954",
+          "name": "\u6bdb\u5462\u5916\u5957"
+        },
+        {
+          "link": "http://s.meilishuo.com/1cp5kk/list/index?categoryId=20117850",
+          "name": "\u7fbd\u7ed2\u670d"
+        }
+      ],
+      "isMarked": false,
+      "level": 5,
+      "name": "\u827e\u82b3\u5973\u88c5\u5c4b",
+      "nonsupportReasonRefound": false,
+      "score": [
+        {
+          "isBetter": false,
+          "name": "\u63cf\u8ff0\u76f8\u7b26",
+          "score": 4.66
+        },
+        {
+          "isBetter": true,
+          "name": "\u4ef7\u683c\u5408\u7406",
+          "score": 5.0
+        },
+        {
+          "isBetter": false,
+          "name": "\u8d28\u91cf\u6ee1\u610f",
+          "score": 4.65
+        }
+      ],
+      "services": [
+        {
+          "name": "\u5ef6\u8bef\u5fc5\u8d54"
+        },
+        {
+          "icon": "//s11.mogucdn.com/p1/160607/upload_ie4tkmbtgqztomjqhezdambqgqyde_44x44.png",
+          "name": "\u9000\u8d27\u8865\u8fd0\u8d39"
+        },
+        {
+          "icon": "//s11.mogucdn.com/p1/160607/upload_ie4tkmbtgqztomjqhezdambqgqyde_44x44.png",
+          "name": "\u5168\u56fd\u5305\u90ae"
+        },
+        {
+          "icon": "//s11.mogucdn.com/p1/160607/upload_ie4tkmbtgqztomjqhezdambqgqyde_44x44.png",
+          "name": "7\u5929\u65e0\u7406\u7531\u9000\u8d27"
+        },
+        {
+          "icon": "//s11.mogucdn.com/p1/160607/upload_ie4tkmbtgqztomjqhezdambqgqyde_44x44.png",
+          "name": "72\u5c0f\u65f6\u53d1\u8d27"
+        }
+      ],
+      "shopId": "1cp5kk",
+      "shopLogo": "//s3.mogucdn.com/mlcdn/c45406/180616_08024j2g76l4552k5550fi73k5f3f_200x200.jpg",
+      "shopUrl": "http://m.meilishuo.com/shop/index/1cp5kk",
+      "type": 1,
+      "userId": "1335w1m"
+    },
+    "skuInfo": {
+      "defaultPrice": "\u00a559.00~\u00a5178.00",
+      "isAbroad": false,
+      "priceRange": "\u00a559.00~\u00a5178.00",
+      "props": [
+        {
+          "isDefault": false,
+          "label": "\u989c\u8272:",
+          "list": [
+            {
+              "index": 1,
+              "isDefault": false,
+              "name": "\u5f00\u886b",
+              "styleId": 1,
+              "type": "style"
+            },
+            {
+              "index": 2,
+              "isDefault": false,
+              "name": "\u886c\u8863",
+              "styleId": 2,
+              "type": "style"
+            },
+            {
+              "index": 3,
+              "isDefault": false,
+              "name": "\u88e4\u5b50",
+              "styleId": 3,
+              "type": "style"
+            },
+            {
+              "index": 4,
+              "isDefault": false,
+              "name": "\u886c\u8863+\u5f00\u886b",
+              "styleId": 4,
+              "type": "style"
+            },
+            {
+              "index": 5,
+              "isDefault": false,
+              "name": "\u4e09\u4ef6\u5957",
+              "styleId": 5,
+              "type": "style"
+            }
+          ]
+        },
+        {
+          "isDefault": false,
+          "label": "\u5c3a\u7801:",
+          "list": [
+            {
+              "index": 100,
+              "isDefault": false,
+              "name": "S",
+              "sizeId": 100,
+              "type": "size"
+            },
+            {
+              "index": 101,
+              "isDefault": false,
+              "name": "M",
+              "sizeId": 101,
+              "type": "size"
+            },
+            {
+              "index": 102,
+              "isDefault": false,
+              "name": "L",
+              "sizeId": 102,
+              "type": "size"
+            }
+          ]
+        }
+      ],
+      "sizeKey": "\u5c3a\u7801",
+      "skus": [
+        {
+          "currency": "\uffe5",
+          "img": "//s3.mogucdn.com/mlcdn/c45406/180808_49a346e41ka1ge449c21kif9bdbdf_640x960.jpg",
+          "nowprice": 8900,
+          "price": 12715,
+          "size": "S",
+          "sizeId": 100,
+          "stock": 1984,
+          "stockId": "116dw0rk",
+          "style": "\u5f00\u886b",
+          "styleId": 1,
+          "xdSkuId": "116dw0rk"
+        },
+        {
+          "currency": "\uffe5",
+          "img": "//s3.mogucdn.com/mlcdn/c45406/180808_49a346e41ka1ge449c21kif9bdbdf_640x960.jpg",
+          "nowprice": 8900,
+          "price": 12715,
+          "size": "M",
+          "sizeId": 101,
+          "stock": 1985,
+          "stockId": "116dw0ri",
+          "style": "\u5f00\u886b",
+          "styleId": 1,
+          "xdSkuId": "116dw0ri"
+        },
+        {
+          "currency": "\uffe5",
+          "img": "//s3.mogucdn.com/mlcdn/c45406/180808_49a346e41ka1ge449c21kif9bdbdf_640x960.jpg",
+          "nowprice": 8900,
+          "price": 12715,
+          "size": "L",
+          "sizeId": 102,
+          "stock": 1993,
+          "stockId": "116dw0rg",
+          "style": "\u5f00\u886b",
+          "styleId": 1,
+          "xdSkuId": "116dw0rg"
+        },
+        {
+          "currency": "\uffe5",
+          "img": "//s3.mogucdn.com/mlcdn/c45406/180808_150ikg46k29if5ad2h696a30lk955_640x960.jpg",
+          "nowprice": 5900,
+          "price": 8429,
+          "size": "S",
+          "sizeId": 100,
+          "stock": 1963,
+          "stockId": "116dw0rm",
+          "style": "\u886c\u8863",
+          "styleId": 2,
+          "xdSkuId": "116dw0rm"
+        },
+        {
+          "currency": "\uffe5",
+          "img": "//s3.mogucdn.com/mlcdn/c45406/180808_150ikg46k29if5ad2h696a30lk955_640x960.jpg",
+          "nowprice": 5900,
+          "price": 8429,
+          "size": "M",
+          "sizeId": 101,
+          "stock": 1927,
+          "stockId": "116dw0ro",
+          "style": "\u886c\u8863",
+          "styleId": 2,
+          "xdSkuId": "116dw0ro"
+        },
+        {
+          "currency": "\uffe5",
+          "img": "//s3.mogucdn.com/mlcdn/c45406/180808_150ikg46k29if5ad2h696a30lk955_640x960.jpg",
+          "nowprice": 5900,
+          "price": 8429,
+          "size": "L",
+          "sizeId": 102,
+          "stock": 1935,
+          "stockId": "116dw0rq",
+          "style": "\u886c\u8863",
+          "styleId": 2,
+          "xdSkuId": "116dw0rq"
+        },
+        {
+          "currency": "\uffe5",
+          "img": "//s11.mogucdn.com/mlcdn/c45406/180808_49a67157e1f7j8b01d6b6ihk100h6_750x1024.jpg",
+          "nowprice": 7900,
+          "price": 11286,
+          "size": "S",
+          "sizeId": 100,
+          "stock": 1993,
+          "stockId": "116dw0rs",
+          "style": "\u88e4\u5b50",
+          "styleId": 3,
+          "xdSkuId": "116dw0rs"
+        },
+        {
+          "currency": "\uffe5",
+          "img": "//s11.mogucdn.com/mlcdn/c45406/180808_49a67157e1f7j8b01d6b6ihk100h6_750x1024.jpg",
+          "nowprice": 7900,
+          "price": 11286,
+          "size": "M",
+          "sizeId": 101,
+          "stock": 1987,
+          "stockId": "116dw0ru",
+          "style": "\u88e4\u5b50",
+          "styleId": 3,
+          "xdSkuId": "116dw0ru"
+        },
+        {
+          "currency": "\uffe5",
+          "img": "//s11.mogucdn.com/mlcdn/c45406/180808_49a67157e1f7j8b01d6b6ihk100h6_750x1024.jpg",
+          "nowprice": 7900,
+          "price": 11286,
+          "size": "L",
+          "sizeId": 102,
+          "stock": 1998,
+          "stockId": "116dw0rw",
+          "style": "\u88e4\u5b50",
+          "styleId": 3,
+          "xdSkuId": "116dw0rw"
+        },
+        {
+          "currency": "\uffe5",
+          "img": "//s5.mogucdn.com/mlcdn/c45406/180808_30ahe7k12adg7d1kbf34k2cfi2dge_750x1000.jpg",
+          "nowprice": 12900,
+          "price": 18429,
+          "size": "S",
+          "sizeId": 100,
+          "stock": 1981,
+          "stockId": "116dw0ry",
+          "style": "\u886c\u8863+\u5f00\u886b",
+          "styleId": 4,
+          "xdSkuId": "116dw0ry"
+        },
+        {
+          "currency": "\uffe5",
+          "img": "//s5.mogucdn.com/mlcdn/c45406/180808_30ahe7k12adg7d1kbf34k2cfi2dge_750x1000.jpg",
+          "nowprice": 12900,
+          "price": 18429,
+          "size": "M",
+          "sizeId": 101,
+          "stock": 1980,
+          "stockId": "116dw0s0",
+          "style": "\u886c\u8863+\u5f00\u886b",
+          "styleId": 4,
+          "xdSkuId": "116dw0s0"
+        },
+        {
+          "currency": "\uffe5",
+          "img": "//s5.mogucdn.com/mlcdn/c45406/180808_30ahe7k12adg7d1kbf34k2cfi2dge_750x1000.jpg",
+          "nowprice": 12900,
+          "price": 18429,
+          "size": "L",
+          "sizeId": 102,
+          "stock": 1987,
+          "stockId": "116dw0s2",
+          "style": "\u886c\u8863+\u5f00\u886b",
+          "styleId": 4,
+          "xdSkuId": "116dw0s2"
+        },
+        {
+          "currency": "\uffe5",
+          "img": "//s11.mogucdn.com/mlcdn/c45406/180808_5j97j450bhhh6f82c83be92fb8jjd_640x960.jpg",
+          "nowprice": 17800,
+          "price": 25429,
+          "size": "S",
+          "sizeId": 100,
+          "stock": 1897,
+          "stockId": "116dw0s4",
+          "style": "\u4e09\u4ef6\u5957",
+          "styleId": 5,
+          "xdSkuId": "116dw0s4"
+        },
+        {
+          "currency": "\uffe5",
+          "img": "//s11.mogucdn.com/mlcdn/c45406/180808_5j97j450bhhh6f82c83be92fb8jjd_640x960.jpg",
+          "nowprice": 17800,
+          "price": 25429,
+          "size": "M",
+          "sizeId": 101,
+          "stock": 1901,
+          "stockId": "116dw0s6",
+          "style": "\u4e09\u4ef6\u5957",
+          "styleId": 5,
+          "xdSkuId": "116dw0s6"
+        },
+        {
+          "currency": "\uffe5",
+          "img": "//s11.mogucdn.com/mlcdn/c45406/180808_5j97j450bhhh6f82c83be92fb8jjd_640x960.jpg",
+          "nowprice": 17800,
+          "price": 25429,
+          "size": "L",
+          "sizeId": 102,
+          "stock": 1950,
+          "stockId": "116dw0s8",
+          "style": "\u4e09\u4ef6\u5957",
+          "styleId": 5,
+          "xdSkuId": "116dw0s8"
+        }
+      ],
+      "styleKey": "\u989c\u8272",
+      "title": "2018\u79cb\u5b63\u65b0\u6b3e\u97e9\u7248\u767e\u642d\u683c\u5b50\u957f\u8896\u886c\u886b+\u524d\u77ed\u540e\u957f\u9488\u7ec7\u6c14\u8d28\u5f00\u886b\u5916\u5957+\u9ad8\u8170\u76f4\u7b52\u4e5d\u5206\u725b\u4ed4\u88e4\u4e09\u4ef6\u5957\u88c5",
+      "totalStock": 29461
+    },
+    "topBar": {
+      "img": "//s11.mogucdn.com/p1/150811/upload_ieytsmbrmm4wkm3ggizdambqmeyde_226x43.png",
+      "link": "http://www.xiaodian.com/h5/download"
+    }
+  },
+  "status": {
+    "code": 1001,
+    "msg": ""
+  }
+}
